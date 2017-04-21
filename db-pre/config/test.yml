@@ -1,0 +1,8 @@
+c1-copy:
+    source: c1
+
+c2-copy:
+    source: c2
+    operatio: filter
+    match: '!'
+    replace: ''

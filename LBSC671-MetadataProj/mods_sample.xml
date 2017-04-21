@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+
+   <mods version="3.3">
+    <titleInfo>
+      <title>umd:78159</title>
+    </titleInfo>
+    <subject>
+      <topic>Fourth Lake, Fulton Chain, Adirondack Mountains, New York, circa 1901-1906</topic>
+      <hierarchicalGeographic>
+        <country>United States of America</country>
+        <state>New York</state>
+        <city>Old Forge</city>
+      </hierarchicalGeographic>
+    </subject>
+    <location>
+      <url>http://hdl.handle.net/1903.1/11297</url>
+    </location>
+  </mods>
+
+  <mods version="3.3">
+    <titleInfo>
+      <title>umd:78162</title>
+    </titleInfo>
+    <subject>
+      <topic>T Lake Camp, Piseco, New York, Adirondack Mountains, circa 1907-1914</topic>
+      <hierarchicalGeographic>
+        <country>United States of America</country>
+        <state>New York</state>
+        <city>Piseco</city>
+      </hierarchicalGeographic>
+    </subject>
+    <location>
+      <url>http://hdl.handle.net/1903.1/11298</url>
+    </location>
+  </mods>
+  
+</modsCollection>

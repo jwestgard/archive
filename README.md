@@ -1,2 +1,2 @@
 # archive
-a parking lot for dormant repositories
+Parking for dormant repositories

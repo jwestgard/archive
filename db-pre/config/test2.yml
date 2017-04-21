@@ -1,0 +1,20 @@
+c1-copy:
+    source: col1
+    
+c2-filter:
+    source: col2
+    operation: replace
+    match: a
+    replacement: A
+    
+c3-format:
+    source: col3
+    operation: format
+    formatting: "{0} + {1}"
+    add_sources: col2
+    
+c4-split:
+    source: col4
+    operation: split
+    delimiter: ";"
+    
